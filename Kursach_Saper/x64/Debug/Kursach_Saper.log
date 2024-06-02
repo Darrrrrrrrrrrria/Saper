@@ -1,0 +1,8 @@
+﻿  Kursach_Saper.cpp
+C:\Users\sdahu\OneDrive\Рабочий стол\с++\Kursach_Saper\packages\sdl2_ttf.v140.2.0.14\build\native\include\SDL_ttf.h(260,102): warning C4091: : пропускается слева от "int", когда ни одна переменная не объявлена
+  main.cpp
+C:\Users\sdahu\OneDrive\Рабочий стол\с++\Kursach_Saper\packages\sdl2_ttf.v140.2.0.14\build\native\include\SDL_ttf.h(260,102): warning C4091: : пропускается слева от "int", когда ни одна переменная не объявлена
+  Preparation.cpp
+C:\Users\sdahu\OneDrive\Рабочий стол\с++\Kursach_Saper\packages\sdl2_ttf.v140.2.0.14\build\native\include\SDL_ttf.h(260,102): warning C4091: : пропускается слева от "int", когда ни одна переменная не объявлена
+  Создание кода...
+  Kursach_Saper.vcxproj -> C:\Users\sdahu\OneDrive\Рабочий стол\с++\Kursach_Saper\x64\Debug\Kursach_Saper.exe
